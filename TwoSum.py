@@ -1,3 +1,6 @@
+#Dado um array de inteiros e um valor alvo (target), encontre dois índices de elementos cuja soma seja igual ao alvo.
+#Você não pode usar o mesmo elemento duas vezes e pode retornar a resposta em qualquer ordem.
+
 print("\033[96m=== Two Sum ===\033[0m")
 print("Dado um array e um target, retorna os índices de dois números que somam o target.")
 print()
